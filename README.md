@@ -10,3 +10,4 @@ To display the exact file extension, it is better to complete the ct_list variab
 This is a simple file download script that can be used for personalized downloads on operating systems that do not support download manager software.
 
 By using schedule and an external Jason file to record the settings and list of downloads, you can completely manage downloads like other download manager software. 
+Original credit goes to AliTaj1994
